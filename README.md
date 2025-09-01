@@ -8,7 +8,6 @@ Indian-Restaurant-data-analysis-
 📖 Overview
 
 The Indian Restaurant Data Analysis project focuses on exploring and visualizing restaurant-related data to uncover valuable insights.
-
 It analyzes factors such as cuisine types, customer ratings, cost distribution, and city trends to understand dining patterns across India.
 
 This project is useful for:
@@ -18,6 +17,7 @@ This project is useful for:
 🏪 Restaurant owners exploring market opportunities.
 
 🎓 Students learning data analytics & visualization.
+
 
 🚀 Key Insights
 
@@ -31,6 +31,7 @@ This project is useful for:
 
 📈 Trends in ratings and customer preferences.
 
+
 🛠️ Tools & Technologies
 
 Data Processing: Python (Pandas, NumPy) / Power Query
@@ -39,8 +40,10 @@ Visualization: Power BI / Matplotlib / Seaborn
 
 Dataset: Indian Restaurant dataset (CSV/Excel)
 
+
 📂 Project Structure
 project/ │── dataset/ # Indian Restaurant dataset (CSV/Excel) │── notebooks/ # Jupyter notebooks (EDA & analysis) │── dashboards/ # Power BI or visualization files │── outputs/ # Charts, insights, reports │── README.md
+
 
 📸 Dashboard / Visuals
 
@@ -51,11 +54,13 @@ Cuisine popularity by city
 Average cost for two analysis
 Rating distribution
 
+
 ▶️ How to Use
 
 Download the dataset (CSV/Excel) from the repository.
 Run the analysis notebooks in Python OR open the Power BI file.
 Explore visuals and insights through filters and dashboards.
+
 
 🔮 Future Enhancements
 
@@ -66,6 +71,7 @@ Explore visuals and insights through filters and dashboards.
 🧠 Predict customer ratings using ML models.
 
 📱 Build a dashboard for mobile-friendly insights.
+
 
 📜 License
 
