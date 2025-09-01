@@ -3,6 +3,7 @@ Indian-Restaurant-data-analysis-
 <img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/39863292-0519-458e-a036-2c6d5eb9c56d" />
 🍴 Indian Restaurant Data Analysis explores restaurant data to uncover insights about cuisines, ratings, cost distribution, and customer preferences. Using Power BI/Python, it visualizes trends in dining, highlights popular food categories, and supports business decisions for the food industry. 🔹 README.md
 
+
 🍴 Indian Restaurant Data Analysis
 
 📖 Overview
