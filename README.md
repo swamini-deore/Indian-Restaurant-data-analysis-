@@ -6,6 +6,7 @@ Indian-Restaurant-data-analysis-
 🍴 Indian Restaurant Data Analysis
 
 📖 Overview
+
 The Indian Restaurant Data Analysis project focuses on exploring and visualizing restaurant-related data to uncover valuable insights.
 It analyzes factors such as cuisine types, customer ratings, cost distribution, and city trends to understand dining patterns across India.
 
